@@ -1,0 +1,8 @@
+com\kirala\kiralama\KiralamaApplication.class
+com\kirala\kiralama\KategoriController.class
+com\kirala\kiralama\UrunRepository.class
+com\kirala\kiralama\Methods.class
+com\kirala\kiralama\UrunController.class
+com\kirala\kiralama\Urun.class
+com\kirala\kiralama\Kategori.class
+com\kirala\kiralama\KategoriRepository.class
